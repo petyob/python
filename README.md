@@ -35,8 +35,7 @@ python test.py -o small
 python test.py -o large
 
 5. To run Unit tests - only uncomment the line:
-
-#unittest.main()
+	#unittest.main()
 
 
 
