@@ -1,1 +1,1 @@
-A Python script(HTTPLogStatistics.py) doing some statistics over a HTTP log file
+Python script parses Appache HTTP server access.log file to produce some statistics
