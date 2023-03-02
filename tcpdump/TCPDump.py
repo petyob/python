@@ -65,6 +65,7 @@ with open(tcpdump_file) as dumpfile:  # Default buffering for text files is line
 
 def pick_top_10(hosts):
     hosts_sorted = sorted(hosts, key=lambda x: hosts[x])
+# Do it another way: 
 #    for x in range(10):
 #       yield hosts_sorted.pop()
     return reversed(hosts_sorted[-10:])
