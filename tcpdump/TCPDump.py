@@ -1,4 +1,4 @@
-# Parses TCPDump file to produce some statistics.
+# Produce some statistics from a TCPDump file.
 # Try using unittest
 # Author: Petyo Byankov
 
