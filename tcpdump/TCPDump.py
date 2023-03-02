@@ -1,3 +1,7 @@
+# Parses TCPDump file to produce some statistics.
+# Try using unittest
+# Author: Petyo Byankov
+
 import argparse
 import time
 import re
